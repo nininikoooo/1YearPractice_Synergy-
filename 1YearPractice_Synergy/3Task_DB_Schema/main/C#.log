@@ -1,0 +1,27 @@
+2025-10-21 12:58:54.612 [info] Installing C# dependencies...
+2025-10-21 12:58:54.612 [info] 
+
+2025-10-21 12:58:54.612 [info] Platform: win32, x86_64
+
+2025-10-21 12:58:54.612 [info] 
+
+2025-10-21 12:58:54.612 [info] Downloading package 'Language server for Roslyn Copilot integration' 
+2025-10-21 12:58:55.753 [info] (47 KB)
+2025-10-21 12:58:55.753 [info] .......
+2025-10-21 12:58:55.975 [info] .......
+2025-10-21 12:58:55.976 [info] ......
+2025-10-21 12:58:55.978 [info]  Done!
+
+2025-10-21 12:58:55.979 [info] Validating download...
+
+2025-10-21 12:58:55.979 [info] Integrity Check succeeded.
+
+2025-10-21 12:58:55.979 [info] Installing package 'Language server for Roslyn Copilot integration'
+
+2025-10-21 12:58:55.979 [info] 
+
+2025-10-21 12:58:55.992 [info] Finished
+
+2025-10-21 12:58:55.992 [info] 
+
+2025-10-21 12:58:56.005 [info] C# Extension activated in limited mode due to workspace trust not being granted.
